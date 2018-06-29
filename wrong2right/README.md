@@ -8,7 +8,7 @@ tensorflow >= 1.7
 ## Task
 Given a sentence, transform to a better sentence.
 ```
-最高可以代多少钱。 -- 最高可以贷多少钱。
+
 ```
 
 ## data & preprocess

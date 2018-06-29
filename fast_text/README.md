@@ -8,7 +8,7 @@ tensorflow >= 1.7
 ## Task
 Given a sentence, assign a label according to its' content.
 ```
-办理前需要先了解下您的个人信息，请您如实告知。请问您现在居住地是在甘肃省内吧？__user__嗯是的 --- 1
+
 ```
 
 ## data & preprocess
